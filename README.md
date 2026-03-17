@@ -1,84 +1,95 @@
-# Geetam Talluri
-
-**Software Developer • Embedded Systems • Game/VR Developer**  
-📍 Hyderabad, India  
+**Software Developer • Unity Systems • Gameplay & Tools Developer**  
+📍 India  
 📧 geetham.gsc@gmail.com  
-🔗 github.com/geethamGT3RS  
-📱 +91 9505538758
+🔗 https://github.com/geethamGT3RS  
 
 ---
 
 ## 👋 About Me
-I’m a software developer passionate about **embedded systems, real-time computation, Unity/VR development, and high-performance graphics**.  
-I work across the stack—from **microcontroller driver development** to **large Unity-based interactive systems** to **DSP and graphics pipeline optimization**.
 
-I enjoy building efficient, reliable, and user-friendly systems.
+I’m a software devloper focused on building **scalable gameplay systems, real-time applications, and data-driven architectures in Unity**.
+
+My work spans:
+- Gameplay systems & interaction design  
+- Real-time multiplayer & backend integration (Firebase, WebRTC)  
+- VR and simulation systems  
+- Tooling for rapid iteration and parameter tuning  
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-### **Software Developer (Part-time) — Cynteract GmbH**  
+### Software Developer — Cynteract GmbH  
 *Sep 2023 – Present*
-- Integrated **Firebase Authentication** and **Realtime Database** with Unity for secure cross-platform login, registration, and data sync.
-- Developed **custom ESP32 driver code** to interface Unity’s Input System with both Android and Windows.
-- Built and optimized **UI/UX components** in Unity: responsive layouts, dynamic visualization, interactive menus.
+
+- Developed Unity-based therapeutic games with modular gameplay systems and dynamic UI  
+- Built patient data systems using Firebase (Auth + Realtime DB) for session tracking and persistence  
+- Designed device-aware architectures adapting gameplay based on connected hardware  
+- Implemented event-driven systems for real-time updates and decoupled logic  
+- Focused on parameter-driven gameplay tuning for responsiveness and accessibility  
 
 ---
 
-### **Research Intern — DRDL**  
+### Research Intern — DRDL  
 *Apr 2023 – Jun 2023*
-- Led performance optimization of concurrent algorithms using **CUDA** on CPU/GPU architectures.
-- Developed high-performance software for **real-time data acquisition from airborne vehicles**, processing **1MB/s** via **Vulkan & OpenGL**.
+
+- Optimized concurrent algorithms using CUDA across CPU/GPU architectures  
+- Built real-time data processing pipelines using OpenGL/Vulkan  
+- Worked on high-throughput systems (~1MB/s) for airborne data acquisition  
 
 ---
 
-## 🛠 Projects
+## 🛠 Selected Projects
 
-### **Code Post Condition Auditor**  
-*Sep 2025 – Nov 2025*  
-Built an evaluation framework to compare three LLM prompting strategies for generating formal postconditions, scoring them against rigorous correctness metrics.
-
----
-
-### **Ultra Low-Cost 1MHz Bandwidth Oscilloscope**  
-*Dec 2023 – Feb 2024*  
-Processed **80 Mbps** data from a high-speed ADC using DMA, implemented **FFT, filtering**, and created a **PyQt-based signal visualization oscilloscope GUI**.
+### VR Interaction System (TouchTex)
+- Built modular VR interaction architecture with input abstraction + event-driven systems  
+- Integrated WebRTC for real-time communication  
+- Designed configurable interaction parameters (sensitivity, thresholds, feedback)  
+- Designed scalable backend integration for messaging and presence  
 
 ---
 
-## 🎓 Education
-
-- **M.Tech (Computer Science)** — IIIT Hyderabad  
-  *Aug 2025 – Present*
-- **B.Tech — IIT Dharwad** (GPA: 7.8/10)  
-  *Nov 2021 – May 2025*
-- **Class 12** — Telangana State Board (96.1%)  
-  *2021*
-- **Class 10** — Telangana State Board (9.5/10)  
-  *2021*
+### Digital Twin Flight Dynamics Simulation (IEEE ICEI 2024)
+- Developed a VR-based UAV simulation with real-time synchronization  
+- Designed modular simulation architecture separating logic, visualization, and data  
+- Enabled real-time parameter tuning for system behavior  
 
 ---
 
 ## 📄 Publications
 
-- **“Performance comparison of concurrent algorithms on CPU/GPU”**  
-  IEEE High Performance Computing, Student Research (Dec 2023), pp. 80–82.
+- **Digital Twin-based Flight Dynamics Simulation**  
+  IEEE Conference on Engineering Informatics (ICEI), 2024  
 
-- **“Digital Twin-based Flight Dynamics Simulation”**  
-  IEEE Conference on Engineering Informatics (ICEI), Nov 2024.
+- **Performance comparison of concurrent algorithms on CPU/GPU**  
+  IEEE HPC Student Research, 2023  
 
 ---
 
 ## ⚙️ Skills
 
-### **Languages & Frameworks**
-C, C++, Python, Qt, Firebase, ReactJS, NodeJS, CUDA, OpenGL, Vulkan
+### Core
+Unity (C#), Gameplay Systems, System Architecture, ScriptableObjects, Event-driven Design  
 
-### **Tools & Interests**
-Wireshark, Docklight, Simulink, Git, Android Studio, Unity, Blender, Gazebo ROS, Eclipse IDE
+### Backend & Realtime
+Firebase, WebRTC  
+
+### Graphics / Systems
+C++, CUDA, OpenGL, Vulkan  
+
+### Tools
+Git, Blender, Android Studio  
 
 ---
 
-## 🚀 Let’s Connect
-Feel free to explore my projects or reach out for collaboration!
+## 🚀 What I’m Looking For
+
+Opportunities to work on:
+- Gameplay systems & game architecture  
+- Narrative-driven or simulation-heavy games  
+
+---
+
+## 🤝 Let’s Connect
+
+Feel free to explore my work or reach out—always open to interesting systems and game dev challenges.
