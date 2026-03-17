@@ -2,8 +2,7 @@
 📍 India  
 📧 geetham.gsc@gmail.com  
 🔗 https://github.com/geethamGT3RS  
-
----
+👉 [Portfolio](https://www.canva.com/design/DAG6v1a37H4/_WQ7FWeed83x_iA1LO84lQ/view?utm_content=DAG6v1a37H4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc7e426ad8c)
 
 ## 👋 About Me
 
